@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+
+    </head>
+    <body>
+        <h1>background-image of p Elements</h1>
+        <p> background-image</p>
+        <p style="background-image: url(../flat-lay-photo-office-desk-with-laptop-copy-space-background_1150-45597.avif);">
+     You can specify background images<br/>
+            for any visible HTML <br>
+            In this example, the background image <br>
+            is specified for a p element <br>
+            By default, the background-image <br>
+            will repeat itself in the direction <br>
+            where it is smaller than the element <br>
+            where it is specified. (Try resizing the <br>
+            browser window to see how the <br>
+            background image behaves. </p>
+            <h1 id="kokila raibole">kokila raibole</h1>
+            <h1>The progress element</h1>
+
+<label for="file">Downloading progress:</label>
+<progress id="file" value="50" max="100"> 50% </progress>
+<style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <h2>Table With Border</h2>
+    
+    <p>Use the CSS border property to add a border to the table.</p>
+    
+    <table style="width:100%">
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th> <ifram  width="300" height="400" src="https://www.youtube.com/watch?v=bo3do-R7GJM" </iframe>
+        <th>Age</th>
+      </tr>
+      <tr>
+        <td>Jill</td>
+        <td>Smith</td>
+        <td>50</td>
+      </tr>
+      <tr>
+        <td>Eve</td>
+        <td>Jackson</td>
+        <td>94</td>
+      </tr>
+      <tr>
+        <td>John</td>
+        <td>Doe</td>
+        <td>80</td>
+      </tr>
+    </table>
+    
+    </body>
+    </html>
+    
+    
+
+
+    
+
